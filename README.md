@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/mytodoloom.git
+   git clone https://github.com/archanashah3/mytodoloom.git
    cd mytodoloom
    ```
 
